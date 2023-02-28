@@ -20,8 +20,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "DASHBOOK";
-const char* password = "12345678";
+const char* ssid = "your ssid";
+const char* password = "password";
 
 //##########################################################################
 #define USE_DMA
