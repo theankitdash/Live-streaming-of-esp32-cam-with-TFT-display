@@ -1,4 +1,4 @@
-## ESP32-CAM with 2.8 inch TFT display
+## ESP32-CAM with 2.8 inch TFT display (Without wifi)
 
 This is a simple project for streaming of live feed in ILI9341 TFT 2.8 inch dispolay from ESP32-CAM
 
